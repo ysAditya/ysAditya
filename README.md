@@ -1,1 +1,1 @@
-- 🌱 Data Science and Programming from IIT Madras. Catch up with me!
+- 🌱 Data Science and Programming enthusiast. Catch up with me!
